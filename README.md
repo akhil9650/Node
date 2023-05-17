@@ -18,5 +18,5 @@ This is a Node server that can be used as a boilerplate template code to setup E
 
 
 
-NOTE: Add a .env file in PROJECT directory containing the MONGODB URL as following:
+NOTE: Add a .env file in PROJECT directory containing the MONGODB URL as following: <br>
 DATABASE_URL = mongodb+srv://[USERNAME]:[PASSWORD]@nf-node-cluster.agodps1.mongodb.net/testDatabase?retryWrites=true&w=majority
